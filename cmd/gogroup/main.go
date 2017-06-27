@@ -7,9 +7,9 @@ import (
 	"os"
 	"regexp"
 	"strings"
-
-	"gogroup"
 	"strconv"
+
+	"github.com/disiqueira/gogroup"
 )
 
 type grouper struct {
